@@ -1,4 +1,4 @@
-<h1 style="color: red">GitHub Flavored Markdown Reference Material</h1>
+<h1><code style="color: red">GitHub Flavored Markdown Reference Material</code></h1>
 
 <br>
 
