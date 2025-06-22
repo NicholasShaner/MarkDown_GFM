@@ -1,0 +1,2 @@
+Hello, all. Thank you for checking out my repositories. My name is Nick and I am currently a Computer Science student in my junior year. I created this file as a reference for myself to use. I had kept it to myself for a while then realized that it may be of some help to others in need. It is not a complete user guide, just the basics of what is needed to get started.
+**DISCLAIMER: In most circumstances, disregard the syntax used for my section headers. They are formatted in a mixed style of HTML and MD, mainly to render to my specification when viewed on my local machine.**
