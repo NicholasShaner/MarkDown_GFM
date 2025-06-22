@@ -2,6 +2,25 @@
 
 <br>
 
+- [Headings](#headings)
+- [Horizontal Rule/ Page Break](#horizontal-rule)
+- [Italics](#italics)
+- [Bold](#bold)
+- [StrikeThrough](#strike-through)
+- [Underline](#underline)
+- [Block Quote](#block-quote)
+- [Code Block](#code-block)
+- [Inline Code](#inline-code)
+- [External Link](#external-link)
+- [Internal Link](#internal-link)
+- [Images](#images)
+- [Imagese With Links](#images-with-links)
+- [Lists/Task List](#list)
+- [Table](#table)
+- [Misc](#misc)
+
+
+
 ---
 
 
@@ -20,6 +39,7 @@ _\*Work like header tags in HTML (h1, h2, h3, etc)_
 - ###### Header 6 (\#\#\#\#\#\#\# \<text>)
 
 ---
+
 <br>
 
 
