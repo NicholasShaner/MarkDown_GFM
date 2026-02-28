@@ -119,7 +119,7 @@ _Italics_ (\*\<Text\>\* or \_\<Text\>\_)
 
 Using the '\>' character at the head of a line of text creates indented block of text
 > This is block quotes  
-> The window size will determine the width of lines and vertical sizing. To force newline, add two
+> The window size will determine the width of lines and vertical sizing. To force newline, add two  
 > spaces at end of line
 
 <br>
@@ -320,5 +320,6 @@ _<div align="center">To center text on page, can use typical HTML center syntaxi
 <br>
 
 - <h3 style="color: orange">External links defaul to open new tab in default/current browser</h3>
+
 
 
